@@ -6,7 +6,7 @@ To run it go into the main method, the rest is self explanatory
 
 If you have any tips let me know!
 
-- Release 1.0
+[Release 1.0]
 - split up code and organized into different classes and methods
 - translated the code into english
 - added support for categories
